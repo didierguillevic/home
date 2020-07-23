@@ -198,7 +198,7 @@ permalink: /resume/
 #### [NEC Central Research Labs](http://jpn.nec.com/rd/)
 - **Member of the Research Staff: Machine learning, Pattern recognition**
 - Japan (Kawasaki), 1997-2000
-- Reporting to the Research and Development Manager (R&D)*\n
+- Reporting to the Research and Development Manager (R&D)
 
 - Pattern Recognition Laboratory.
 - R&D activities for the
