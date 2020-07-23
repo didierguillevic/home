@@ -11,4 +11,4 @@ permalink: /presentations/
 <img src="../passwords.jpg" title="Deep Art" width="400" />
 
 #### 2019: [Deep Learning](../Deep_Learning_2019_Didier_Guillevic.pdf)  ([ICPRAI 2018](http://www.icprai2018.com), updated 2019-11)
-<img src="../AA_art.jpg" title="Deep Art" width="400" />
+<img src="../deep_art.jpg" title="Deep Art" width="400" />
