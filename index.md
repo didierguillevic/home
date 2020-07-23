@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Didier Guillevic, Ph.D.](./DidierGuillevic.jpg)
+![Didier Guillevic](./Japan_vending_machines.jpg)
 
 ----
 
