@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Didier Guillevic, Ph.D.](./DidierGuillevic.jpg)
+![Didier Guillevic, Ph.D.](/assets/images/DidierGuillevic.jpg)
 
 #### Didier Guillevic
 
