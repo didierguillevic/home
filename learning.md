@@ -8,7 +8,11 @@ permalink: /learning/
 ----
 #### Privacy Preserving Machine learning
 
-- [Secure and Private AI (Udacity)](https://www.udacity.com/course/secure-and-private-ai--ud185)
+- [Secure and Private AI (Udacity)](https://www.udacity.com/course/secure-and-private-ai--ud185) :
+  - local / global [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy),
+    [federated learning](https://en.wikipedia.org/wiki/Federated_learning),
+    encryption via [secure multi party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation),
+    [homomorphic encryption](https://en.wikipedia.org/wiki/Homomorphic_encryption)
 
 #### Deep Learning
 

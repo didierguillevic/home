@@ -4,13 +4,14 @@
 
 layout: home
 ---
-![Didier Guillevic](/assets/images/Japan_vending_machines.jpg)
+![Didier Guillevic](/assets/images/Japan_vending_machines.jpg "Tokyo Vending Machine")
 
+### [Keep](https://www.coursera.org) [Learning](https://www.edx.org) [...](https://www.udacity.com)
 ----
 
 ## COVID-19
 <img src="/assets/images/jhr_vs_covid.png" alt="Mini-proteins vs COVID-19"
-  title="" width="160" height="128"
+  title="Mini-proteins vs COVID-19" width="160" height="128"
 />
 - Help in the fight against COVID-19 by sharing your idle personal computer resources.
 - [Join Rosetta@home](https://boinc.bakerlab.org): Make sure to turn off your VPN when joining.
@@ -18,10 +19,10 @@ layout: home
 ## Presentations
 
 ### 2020: [Data Privacy (Privacy Preserving Machine Learning)](../Data_Privacy_2020_Didier_Guillevic.pdf)
-<img src="/assets/images/World_heatmap.jpg" title="Deep Art" width="200" />
+<img src="/assets/images/World_heatmap.jpg" title="Strava World Heatmap" width="200" />
 
 ### 2020: [Password Cracking (Adopting a reasonable password hygiene)](../Password_Cracking_2020_Didier_Guillevic.pdf)
-<img src="/assets/images/passwords.jpg" title="Deep Art" width="200" />
+<img src="/assets/images/passwords.jpg" title="Cracked passwords visualization" width="200" />
 
 ### 2019: [Deep Learning](../Deep_Learning_2019_Didier_Guillevic.pdf)  ([ICPRAI 2018](http://www.icprai2018.com), updated 2019-11)
-<img src="/assets/images/deep_art.jpg" title="Deep Art" width="200" />
+<img src="/assets/images/deep_art.jpg" title="Deep Art - Deep Learning" width="200" />
