@@ -22,7 +22,7 @@
 title: Didier Guillevic
 email: didier@guillevic.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Keep Learning...
+  Copyright © 2018-2020 Didier Guillevic
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: didierguillevic
