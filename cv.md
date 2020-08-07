@@ -10,12 +10,12 @@ permalink: /resume/
 - M.Sc. in Electrical Engineering: [ESIEE](https://www.esiee.fr/en) (France)
 - [Tripartite](http://en.wikipedia.org/wiki/Tripartite_Programme):
   [ESIEE](https://www.esiee.fr/en) (France),
-  [Karlsruhe Institute of Technology](https://www.etit.kit.edu) (Germany)
-  [Essex University](https://www.essex.ac.uk/csee/) (England)
-  - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning),
+  [Karlsruhe Institute of Technology](https://www.etit.kit.edu) (Germany),
+  [Essex U.](https://www.essex.ac.uk/csee/) (England)
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning),
   [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing),
   [Data Science](https://en.wikipedia.org/wiki/Data_science)
-  - Software Developer, Data Scientist
+- Software Developer, Data Scientist
 
 ### Contact
 ----
@@ -219,9 +219,7 @@ permalink: /resume/
   [Hidden Markov Models](http://en.wikipedia.org/wiki/Hidden_Markov_model).
 
 #### [Xerox Research Center Webster](http://www.xerox.com/innovation/business-technology-research/enus.html)
-- **Summer Intern: Pattern recognition**
-- USA (Rochester, NY), 1991
-- Reporting to the Optical Character Recognition Research and Development Manager (R&D OCR)
+
 
 - Software development for Xerox
   [optical character recognition](https://www.xerox.ca/en-ca/services/back-office/insights/optical-character-recognition) systems.
@@ -274,7 +272,7 @@ permalink: /resume/
 - [Deep Learning with PyTorch (Udacity)](https://www.udacity.com/course/deep-learning-pytorch--ud188) : [PyTorch](https://pytorch.org)
 - [Deep Learning (Collège de France)](http://www.college-de-france.fr/site/yann-lecun/course-2015-2016.htm)
 - [Deep Learning (Udacity/Google)](https://www.udacity.com/course/deep-learning--ud730) : [TensorFlow](https://www.tensorflow.org)
-- [CS224d: Deep Learning for Natural Language Processing (Stanford)](http://cs224d.stanford.edu)
+- [CS224n: Deep Learning for Natural Language Processing (Stanford)](http://cs224n.stanford.edu)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
 
 #### Machine Learning - Natural Language Processing
@@ -282,8 +280,8 @@ permalink: /resume/
 - [Machine Learning (Stanford)](https://www.coursera.org/course/ml)
 - [Statistical Learning (Stanford)](http://online.stanford.edu/course/statistical-learning-winter-2014)
 - [Scalable Machine Learning (UC Berkeley)](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x) :  [Apache Spark](http://spark.apache.org)
-- [Natural Language Processing (Stanford)](https://www.coursera.org/course/nlp)
-- [Natural Language Processing (Columbia)](https://www.coursera.org/course/nlangp)
+- [Natural Language Processing (Stanford)](http://cs224d.stanford.edu)
+- [Natural Language Processing (Columbia)](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
 
 #### Data Science
 
@@ -319,7 +317,7 @@ permalink: /resume/
 
 - French (mother tongue)
 - English (bilingual)
-- German (fluent, lived 3 years in Germany)
+- German (fluent, lived-studied-worked 3 years in Germany)
 - Japanese (intermediate, lived 3 years in Japan)
 
 ### Personal Experiences

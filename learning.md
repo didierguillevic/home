@@ -19,7 +19,7 @@ permalink: /learning/
 - [Deep Learning with PyTorch (Udacity)](https://www.udacity.com/course/deep-learning-pytorch--ud188) : [PyTorch](https://pytorch.org)
 - [Deep Learning (Collège de France)](http://www.college-de-france.fr/site/yann-lecun/course-2015-2016.htm)
 - [Deep Learning (Udacity/Google)](https://www.udacity.com/course/deep-learning--ud730) : [TensorFlow](https://www.tensorflow.org)
-- [CS224d: Deep Learning for Natural Language Processing (Stanford)](http://cs224d.stanford.edu)
+- [CS224n: Deep Learning for Natural Language Processing (Stanford)](http://cs224n.stanford.edu)
 - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
 
 #### Machine Learning - Natural Language Processing
@@ -27,8 +27,8 @@ permalink: /learning/
 - [Machine Learning (Stanford)](https://www.coursera.org/course/ml)
 - [Statistical Learning (Stanford)](http://online.stanford.edu/course/statistical-learning-winter-2014)
 - [Scalable Machine Learning (UC Berkeley)](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x) :  [Apache Spark](http://spark.apache.org)
-- [Natural Language Processing (Stanford)](https://www.coursera.org/course/nlp)
-- [Natural Language Processing (Columbia)](https://www.coursera.org/course/nlangp)
+- [Natural Language Processing (Stanford)](http://cs224d.stanford.edu)
+- [Natural Language Processing (Columbia)](http://www.cs.columbia.edu/~mcollins/notes-spring2013.html)
 
 #### Data Science
 

@@ -18,7 +18,7 @@ layout: home
 
 ## Presentations
 
-### 2020: [Data Privacy (Privacy Preserving Machine Learning)](../Data_Privacy_2020_Didier_Guillevic.pdf)
+### 2020: [Data Privacy (Privacy Preserving Machine Learning)](../Data_Privacy_2020_Didier_Guillevic.pdf) (95 MB)
 <img src="/assets/images/World_heatmap.jpg" title="Strava World Heatmap" width="200" />
 
 ### 2020: [Password Cracking (Adopting a reasonable password hygiene)](../Password_Cracking_2020_Didier_Guillevic.pdf)
