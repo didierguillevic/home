@@ -52,6 +52,9 @@ the lists of cracked passwords, in which case they offer zero protection if targ
    (e.g. [Authy](https://authy.com),
    [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator),
    [FreeOTP](https://freeotp.github.io))
+5. Use a VPN app on public Wi-Fis:
+   [ProtonVPN](https://protonvpn.com), [NordVPN](https://nordvpn.com),
+   [ExpressVPN](https://www.expressvpn.com)
 
 ### Commonly used passwords
 
@@ -527,11 +530,12 @@ on server locations), or paid options such as
    [Better passwords](https://blog.1password.com/toward-better-master-passwords/),
    [Information entropy](https://blog.1password.com/better-master-passwords-the-geek-edition/))
    3. Use a [password management tool](https://www.howtogeek.com/141500/why-you-should-use-a-password-manager-and-how-to-get-started/)
-   (e.g. [1Password](https://1password.com), [Bitwarden](https://bitwarden.com) (open source),
-   [NordPass](https://nordpass.com))
+   (e.g. [Bitwarden](https://bitwarden.com) (open source), [NordPass](https://nordpass.com),
+   [1Password](https://1password.com))
    4. Use [two factor identification](https://www.howtogeek.com/117047/htg-explains-what-is-two-factor-authentication-and-should-i-be-using-it/)
-   (e.g. [FreeOTP](https://freeotp.github.io), [Authy](https://authy.com),
-   [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator))
+   (e.g. [Authy](https://authy.com),
+   [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator),
+   [FreeOTP](https://freeotp.github.io))
    5. Use a VPN app on public Wi-Fis:
    [ProtonVPN](https://protonvpn.com), [NordVPN](https://nordvpn.com),
    [ExpressVPN](https://www.expressvpn.com)
