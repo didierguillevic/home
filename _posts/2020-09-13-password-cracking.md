@@ -491,7 +491,7 @@ the [RSA SecurID](https://en.wikipedia.org/wiki/RSA_SecurID)
 ([still in use](https://www.rsa.com/content/dam/en/data-sheet/rsa-securid-hardware-tokens.pdf)).
 Today, one has the option of using free software apps that we can install on
 our mobile devices (phones, [AppleWatch](https://apps.apple.com/us/app/twilio-authy/id494168017#?platform=appleWatch))
-such as [Authy](https://authy.com), [Google Autheticator](https://en.wikipedia.org/wiki/Google_Authenticator)
+such as [Authy](https://authy.com), [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator)
 or [FreeOTP](https://freeotp.github.io) to name a few.
 
 #### Virtual Private Networks (VPNs)
