@@ -432,7 +432,7 @@ Another example would be "submarine balloon cloud goeland" describing the image 
   alt="Submarine Cloud Balloon"
   caption="dreamstime.com"
   max-width="200"
-  url="dreamstime.com"
+  url="https://www.dreamstime.com/search.php?&srh_field=yellow%20submarine%20in%20the%20sky"
 %}
 
 This idea is relatively old ([Arnold Reinhold's Diceware](http://world.std.com/~reinhold/diceware.html) - 1995).

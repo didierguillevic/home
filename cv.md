@@ -285,7 +285,7 @@ permalink: /resume/
 
 #### Data Science
 
-- [Mining Massive Datasets (Stanford)](https://class.coursera.org/mmds-001) :  [Locality Sensitive Hashing (LSH)](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
+- [Mining Massive Datasets (Stanford)](https://www.edx.org/course/mining-massive-datasets) :  [Locality Sensitive Hashing (LSH)](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
 - [Introduction to Data Science (U. of Washington)](https://www.coursera.org/course/datasci) : [Apache Hadoop](https://hadoop.apache.org) , [NewSQL](https://en.wikipedia.org/wiki/NewSQL)
 - [Data Manipulation at Scale: Systems and Algorithms (U. of Washington)](https://www.coursera.org/learn/data-manipulation) :  [Exact Test](https://en.wikipedia.org/wiki/Exact_test), ...
 - [Data Science and Analytics in Context (Columbia)](https://www.edx.org/xseries/data-science-analytics-context)
