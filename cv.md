@@ -259,6 +259,10 @@ permalink: /resume/
 ### (Continuing) Education
 ----
 
+#### Quantum Computing
+
+- [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) ([Keio University](https://quantum.keio.ac.jp))
+
 #### Privacy Preserving Machine learning
 
 - [Secure and Private AI (Udacity)](https://www.udacity.com/course/secure-and-private-ai--ud185)
