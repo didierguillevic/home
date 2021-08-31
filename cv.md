@@ -25,6 +25,11 @@ permalink: /resume/
 
 ### Expertise
 ----
+- [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
+- [Natural Language Processing](http://en.wikipedia.org/wiki/Natural_language_processing) :
+  [word sense disambiguation](https://en.wikipedia.org/wiki/Word-sense_disambiguation),
+  [Named Entity Extraction](https://en.wikipedia.org/wiki/Named-entity_recognition),
+  [word embedding](https://en.wikipedia.org/wiki/Word_embedding) (word vectors)
 - [Machine Learning](http://en.wikipedia.org/wiki/Machine_learning):
   [Linear Classifiers](http://en.wikipedia.org/wiki/Linear_classifier),
   [Support Vector Machines](http://en.wikipedia.org/wiki/Support_Vector_Machines) (SVMs),
@@ -35,11 +40,6 @@ permalink: /resume/
   [Random Decision Forest](http://en.wikipedia.org/wiki/Random_forest),
   [Boosted Decision Trees](http://en.wikipedia.org/wiki/Gradient_boosting),
   [ExtraTrees](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html)
-- [Natural Language Processing](http://en.wikipedia.org/wiki/Natural_language_processing) :
-  [word sense disambiguation](https://en.wikipedia.org/wiki/Word-sense_disambiguation),
-  [Named Entity Extraction](https://en.wikipedia.org/wiki/Named-entity_recognition),
-  [word embedding](https://en.wikipedia.org/wiki/Word_embedding) (word vectors)
-- [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
 - [Predictive Modelling](http://en.wikipedia.org/wiki/Predictive_modelling),
   [classification](https://en.wikipedia.org/wiki/Multiclass_classification),
   [regression analysis](https://en.wikipedia.org/wiki/Regression_analysis),
@@ -262,6 +262,7 @@ permalink: /resume/
 #### Quantum Computing
 
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) ([Keio University](https://quantum.keio.ac.jp))
+- [2021 Qiskit Global Summer School on Quantum Machine Learning](https://qiskit.org/events/summer-school/)
 
 #### Privacy Preserving Machine learning
 

@@ -10,6 +10,7 @@ permalink: /learning/
 #### Quantum Computing
 
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) ([Keio University](https://quantum.keio.ac.jp))
+- [2021 Qiskit Global Summer School on Quantum Machine Learning](https://qiskit.org/events/summer-school/)
 
 #### Privacy Preserving Machine learning
 
