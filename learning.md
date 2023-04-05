@@ -7,6 +7,14 @@ permalink: /learning/
 ### (Continuing) Education
 ----
 
+#### Graph
+
+- [CS224W: Machine Learning with Graphs (Stanford)](https://web.stanford.edu/class/cs224w/):
+  [PyG](https://pytorch-geometric.readthedocs.io/en/latest/),
+  [NetworkX](https://networkx.org),
+  [Graph Neural Network](https://en.wikipedia.org/wiki/Graph_neural_network)
+- [Mining Massive Datasets (Stanford)](https://www.edx.org/course/mining-massive-datasets) :  [Locality Sensitive Hashing (LSH)](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
+
 #### Quantum Computing
 
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) ([Keio University](https://quantum.keio.ac.jp))
@@ -38,7 +46,6 @@ permalink: /learning/
 
 #### Data Science
 
-- [Mining Massive Datasets (Stanford)](https://www.edx.org/course/mining-massive-datasets) :  [Locality Sensitive Hashing (LSH)](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
 - [Introduction to Data Science (U. of Washington)](https://www.coursera.org/course/datasci) : [Apache Hadoop](https://hadoop.apache.org) , [NewSQL](https://en.wikipedia.org/wiki/NewSQL)
 - [Data Manipulation at Scale: Systems and Algorithms (U. of Washington)](https://www.coursera.org/learn/data-manipulation) :  [Exact Test](https://en.wikipedia.org/wiki/Exact_test), ...
 - [Data Science and Analytics in Context (Columbia)](https://www.edx.org/xseries/data-science-analytics-context)

@@ -70,7 +70,7 @@ frequent ones with a [word cloud](https://amueller.github.io/word_cloud/).
 <img src="/assets/images/DG_passwords.jpg" title="Cracked passwords visualization" width="600" />
 </center>
 
-That small list, corresponding to one given hacked site, night not be representative of
+That small list, corresponding to one given hacked site, might not be representative of
 the passwords in use worldwide, but it is still informative.
 We can see the usual suspects (those that are part of the [10,000 most commonly used passwords](https://en.wikipedia.org/wiki/Wikipedia:10,000_most_common_passwords)
 such as: _12345678_, _123456789_ and _password_.

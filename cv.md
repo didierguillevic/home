@@ -14,7 +14,8 @@ permalink: /resume/
   [Essex U.](https://www.essex.ac.uk/csee/) (England)
 - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning),
   [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing),
-  [Data Science](https://en.wikipedia.org/wiki/Data_science)
+  [Data Science](https://en.wikipedia.org/wiki/Data_science),
+  Artificial Intelligence
 - Software Developer, Data Scientist
 
 ### Contact
@@ -25,7 +26,9 @@ permalink: /resume/
 
 ### Expertise
 ----
-- [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
+- [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning),
+  [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),
+  [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)
 - [Natural Language Processing](http://en.wikipedia.org/wiki/Natural_language_processing) :
   [word sense disambiguation](https://en.wikipedia.org/wiki/Word-sense_disambiguation),
   [Named Entity Extraction](https://en.wikipedia.org/wiki/Named-entity_recognition),
@@ -71,8 +74,14 @@ permalink: /resume/
   [gensim](https://en.wikipedia.org/wiki/Gensim),
   [Word2Vec](https://en.wikipedia.org/wiki/Word2vec),
   [GloVe](http://nlp.stanford.edu/projects/glove),
+  [HuggingFace](https://huggingface.co),
   [GNU Makefile](http://www.gnu.org/software/make/),
   [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
+- Deep Learning: [PyTorch](https://pytorch.org),
+- Graph: [NetworkX](https://networkx.org),
+  [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/),
+  [graph-tool](https://graph-tool.skewed.de)
+- Web app: [R Shiny](https://shiny.rstudio.com), [Streamlit](https://streamlit.io)
 
 ### Prior Experiences
 ----
@@ -85,13 +94,12 @@ permalink: /resume/
   [MapReduce](https://en.wikipedia.org/wiki/MapReduce),
   [Apache Spark](https://en.wikipedia.org/wiki/Apache_Spark),
   [Apache MLLib](http://spark.apache.org/mllib),
-  [TensorFlow](https://www.tensorflow.org),
-  [PyTorch](https://pytorch.org)
+  [TensorFlow](https://www.tensorflow.org)
 - Data visualization:
   [Bokeh](http://bokeh.pydata.org/en/latest),
-  [graph-tool](https://graph-tool.skewed.de),
-  [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
-- Tools:
+  [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding),
+  [UMAP](https://umap-learn.readthedocs.io/en/latest/)
+- Web app:
   [API REST](https://en.wikipedia.org/wiki/Representational_state_transfer),
   [Flask](http://flask.pocoo.org),
   [Flask-RESTful](http://flask-restful.readthedocs.io)
@@ -113,18 +121,18 @@ permalink: /resume/
 - Database with billions of
   [sense annotated](https://en.wikipedia.org/wiki/Word-sense_disambiguation)
   queries, tweets and documents.
-- Product [Adsquirl](https://www.adsquirl.com) designed for marketing agencies to drive advertising campaigns:
+- Product Adsquirl designed for marketing agencies to drive advertising campaigns:
 	- precise semantic meaning of keywords
 	- [negative keywords](https://en.wikipedia.org/wiki/Negative_keyword) generation using Idilia's database of sense annotated queries.
 	- long tail queries generation by matching the precise meaning of seed keywords with Idilia's database of sense annotated queries.
-- Product for the [extraction and filtering of information coming from social media](http://api.idilia.com/twitter-search).
+- Product for the extraction and filtering of information coming from social media.
 - Working with large data sets: billions of tweets, queries and documents.
-- Knowledge graph ([Idilia Language Graph](http://www.idilia.com/demos/language-graph-browser)),
+- Knowledge graph (Idilia Language Graph),
   with millions of word senses and several hundred million links.
 - Designed a document classification module to extract
   [named entities](https://en.wikipedia.org/wiki/Named-entity_recognition)
   from [Wikipedia](https://en.wikipedia.org) and insert them into
-  [Idilia's taxonomy](http://www.idilia.com/demos/language-graph-browser).
+  Idilia's taxonomy.
   [Linear classifier](https://en.wikipedia.org/wiki/Linear_classifier)
   trained with millions of documents, several hundred thousand
   [features](https://en.wikipedia.org/wiki/Feature_(machine_learning)) and
@@ -259,6 +267,14 @@ permalink: /resume/
 ### (Continuing) Education
 ----
 
+#### Graph
+
+- [CS224W: Machine Learning with Graphs (Stanford)](https://web.stanford.edu/class/cs224w/):
+  [PyG](https://pytorch-geometric.readthedocs.io/en/latest/),
+  [NetworkX](https://networkx.org),
+  [Graph Neural Network](https://en.wikipedia.org/wiki/Graph_neural_network)
+- [Mining Massive Datasets (Stanford)](https://www.edx.org/course/mining-massive-datasets) :  [Locality Sensitive Hashing (LSH)](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
+
 #### Quantum Computing
 
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) ([Keio University](https://quantum.keio.ac.jp))
@@ -290,7 +306,6 @@ permalink: /resume/
 
 #### Data Science
 
-- [Mining Massive Datasets (Stanford)](https://www.edx.org/course/mining-massive-datasets) :  [Locality Sensitive Hashing (LSH)](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
 - [Introduction to Data Science (U. of Washington)](https://www.coursera.org/course/datasci) : [Apache Hadoop](https://hadoop.apache.org) , [NewSQL](https://en.wikipedia.org/wiki/NewSQL)
 - [Data Manipulation at Scale: Systems and Algorithms (U. of Washington)](https://www.coursera.org/learn/data-manipulation) :  [Exact Test](https://en.wikipedia.org/wiki/Exact_test), ...
 - [Data Science and Analytics in Context (Columbia)](https://www.edx.org/xseries/data-science-analytics-context)
