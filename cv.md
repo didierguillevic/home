@@ -14,10 +14,11 @@ permalink: /resume/
   [Essex U.](https://www.essex.ac.uk/csee/) (England)
 - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning),
   [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning),
+  [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35),
   [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing),
-  [Data Science](https://en.wikipedia.org/wiki/Data_science),
-  Artificial Intelligence
-- Software Developer, Data Scientist
+  (Generative) "[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)",
+  [Graph Learning](https://www.dgl.ai),
+  [Privacy Preserving Machine Learning](https://en.wikipedia.org/wiki/Privacy-enhancing_technologies)
 
 ### Contact
 ----
