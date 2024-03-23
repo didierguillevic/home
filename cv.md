@@ -6,13 +6,14 @@ permalink: /resume/
 
 ## Didier Guillevic
 ----
-- Ph.D. in Computer Science: [Concordia University](https://www.concordia.ca/encs/computer-science-software-engineering.html) (Canada)
+- Ph.D. in Computer Science (Machine Learning): [Concordia University](https://www.concordia.ca/encs/computer-science-software-engineering.html) (Canada)
 - M.Sc. in Electrical Engineering: [ESIEE](https://www.esiee.fr/en) (France)
 - [Tripartite](http://en.wikipedia.org/wiki/Tripartite_Programme):
   [ESIEE](https://www.esiee.fr/en) (France),
   [Karlsruhe Institute of Technology](https://www.etit.kit.edu) (Germany),
   [Essex U.](https://www.essex.ac.uk/csee/) (England)
 - [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning),
+  [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning),
   [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing),
   [Data Science](https://en.wikipedia.org/wiki/Data_science),
   Artificial Intelligence
@@ -26,83 +27,66 @@ permalink: /resume/
 
 ### Expertise
 ----
-- [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning),
-  [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence),
+- [Machine Learning](http://en.wikipedia.org/wiki/Machine_learning),
+  [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning),
   [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)
-- [Natural Language Processing](http://en.wikipedia.org/wiki/Natural_language_processing) :
-  [word sense disambiguation](https://en.wikipedia.org/wiki/Word-sense_disambiguation),
-  [Named Entity Extraction](https://en.wikipedia.org/wiki/Named-entity_recognition),
-  [word embedding](https://en.wikipedia.org/wiki/Word_embedding) (word vectors)
-- [Machine Learning](http://en.wikipedia.org/wiki/Machine_learning):
-  [Linear Classifiers](http://en.wikipedia.org/wiki/Linear_classifier),
-  [Support Vector Machines](http://en.wikipedia.org/wiki/Support_Vector_Machines) (SVMs),
-  [Neural Networks](http://en.wikipedia.org/wiki/Neural_network),
-  [Hidden Markov Models](http://en.wikipedia.org/wiki/Hidden_Markov_model) (HMMs),
-  [Logistic Regression](http://en.wikipedia.org/wiki/Logistic_regression),
-  [Decision Trees](http://en.wikipedia.org/wiki/Decision_tree),
-  [Random Decision Forest](http://en.wikipedia.org/wiki/Random_forest),
-  [Boosted Decision Trees](http://en.wikipedia.org/wiki/Gradient_boosting),
-  [ExtraTrees](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesClassifier.html)
-- [Predictive Modelling](http://en.wikipedia.org/wiki/Predictive_modelling),
-  [classification](https://en.wikipedia.org/wiki/Multiclass_classification),
-  [regression analysis](https://en.wikipedia.org/wiki/Regression_analysis),
-  [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval),
-  confidence scoring
-- [Data mining](https://en.wikipedia.org/wiki/Data_mining),
-  [statistics](https://en.wikipedia.org/wiki/Statistics),
-  [clustering](https://en.wikipedia.org/wiki/Cluster_analysis),
-  [K-Means](https://en.wikipedia.org/wiki/K-means_clustering)
-- Languages: [Python](http://www.python.org), [C\+\+](http://en.wikipedia.org/wiki/C%2B%2B)
+- Generative "[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)" (Large Language Models, ...)
+- [Natural Language Processing](http://en.wikipedia.org/wiki/Natural_language_processing):
+    traditional (pre 2010) as well as deep learning
+- [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval): lexical, semantic
+- Languages:
+    [Python](http://www.python.org),
+    [C\+\+](http://en.wikipedia.org/wiki/C%2B%2B),
+    [ANSI C](https://en.wikipedia.org/wiki/ANSI_C),
+    [R](http://www.r-project.org),
+    [Unix shell](https://en.wikipedia.org/wiki/Unix_shell)
+- Other languages:
+    [Scala](https://www.scala-lang.org),
+    [Java](https://www.java.com),
+    [Matlab](https://www.mathworks.com),
+    [Octave](http://www.gnu.org/software/octave),
+    [JavaScript](http://en.wikipedia.org/wiki/JavaScript)
 - Databases:
-  [MongoDB](http://www.mongodb.org) (NoSQL),
-  [PostgreSQL](http://en.wikipedia.org/wiki/PostgreSQL)
+    [MongoDB](http://www.mongodb.org) (NoSQL),
+    [PostgreSQL](http://en.wikipedia.org/wiki/PostgreSQL)
 - Cloud computing:
-  [AWS](https://aws.amazon.com),
-  [Oracle Grid Engine](https://en.wikipedia.org/wiki/Oracle_Grid_Engine),
-  multi-threaded, distributed computing environment
+    [AWS](https://aws.amazon.com),
+    [Oracle Grid Engine](https://en.wikipedia.org/wiki/Oracle_Grid_Engine),
+    multi-threaded, distributed computing environment
 - Tools:
-  [Linux](http://en.wikipedia.org/wiki/Linux),
-  [Unix](https://en.wikipedia.org/wiki/Unix),
-  [git](http://en.wikipedia.org/wiki/Git_(software)),
-  [scikit-learn](http://scikit-learn.org/),
-  [libsvm](http://www.csie.ntu.edu.tw/~cjlin/libsvm/),
-  [liblinear](http://www.csie.ntu.edu.tw/~cjlin/liblinear/),
-  [scipy](http://www.scipy.org),
-  [pandas](http://pandas.pydata.org),
-  [graph-tool](http://graph-tool.skewed.de),
-  [spaCy](https://spacy.io),
-  [gensim](https://en.wikipedia.org/wiki/Gensim),
-  [Word2Vec](https://en.wikipedia.org/wiki/Word2vec),
-  [GloVe](http://nlp.stanford.edu/projects/glove),
-  [HuggingFace](https://huggingface.co),
-  [GNU Makefile](http://www.gnu.org/software/make/),
-  [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
-- Deep Learning: [PyTorch](https://pytorch.org),
-- Graph: [NetworkX](https://networkx.org),
-  [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/),
-  [graph-tool](https://graph-tool.skewed.de)
-- Web app: [R Shiny](https://shiny.rstudio.com), [Streamlit](https://streamlit.io)
-
-### Prior Experiences
-----
-- Languages:  [Java](https://www.java.com),
-  [Matlab](https://www.mathworks.com),
-  [Octave](http://www.gnu.org/software/octave),
-  [R](http://www.r-project.org),
-  [JavaScript](http://en.wikipedia.org/wiki/JavaScript)
-- Big Data:  [Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop),
-  [MapReduce](https://en.wikipedia.org/wiki/MapReduce),
-  [Apache Spark](https://en.wikipedia.org/wiki/Apache_Spark),
-  [Apache MLLib](http://spark.apache.org/mllib),
-  [TensorFlow](https://www.tensorflow.org)
-- Data visualization:
-  [Bokeh](http://bokeh.pydata.org/en/latest),
-  [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding),
-  [UMAP](https://umap-learn.readthedocs.io/en/latest/)
+    [Linux](http://en.wikipedia.org/wiki/Linux),
+    [Unix](https://en.wikipedia.org/wiki/Unix),
+    [git](http://en.wikipedia.org/wiki/Git_(software)),
+    [scikit-learn](http://scikit-learn.org/),
+    [spaCy](https://spacy.io),
+    [GNU Makefile](http://www.gnu.org/software/make/),
+    [Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
+- Deep Learning:
+    [PyTorch](https://pytorch.org),
+    [HuggingFace](https://huggingface.co)
+- Graph:
+    [NetworkX](https://networkx.org),
+    [Deep Graph Library](https://www.dgl.ai),
+    [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/),
+    [graph-tool](https://graph-tool.skewed.de),
+    [Neo4j](https://neo4j.com)
 - Web app:
-  [API REST](https://en.wikipedia.org/wiki/Representational_state_transfer),
-  [Flask](http://flask.pocoo.org),
-  [Flask-RESTful](http://flask-restful.readthedocs.io)
+    [Streamlit](https://streamlit.io),
+    [Gradio](https://www.gradio.app),
+    [Dash](https://dash.plotly.com),
+    [R Shiny](https://shiny.rstudio.com),
+    [API REST](https://en.wikipedia.org/wiki/Representational_state_transfer),
+    [Flask](http://flask.pocoo.org)
+- Data visualization:
+    [Bokeh](http://bokeh.pydata.org/en/latest),
+    [Dash Cytoscape](https://dash.plotly.com/cytoscape),
+    [UMAP](https://umap-learn.readthedocs.io/en/latest/)
+- Big Data (to a lesser extent):
+    [Hadoop](https://en.wikipedia.org/wiki/Apache_Hadoop),
+    [MapReduce](https://en.wikipedia.org/wiki/MapReduce),
+    [Apache Spark](https://en.wikipedia.org/wiki/Apache_Spark),
+    [Apache MLLib](http://spark.apache.org/mllib),
+    [TensorFlow](https://www.tensorflow.org)
 
 ### Professional Experiences
 ----
@@ -138,15 +122,13 @@ permalink: /resume/
   [features](https://en.wikipedia.org/wiki/Feature_(machine_learning)) and
   several hundred [labels](https://en.wikipedia.org/wiki/Multiclass_classification).
   Database: [MongoDB](http://www.mongodb.org).
-- Designed modules for [named entity recognition](https://en.wikipedia.org/wiki/Named-entity_recognition):
-  [Hidden Markov Models](http://en.wikipedia.org/wiki/Hidden_Markov_model) and rules.
-- Designed a [capitalization](https://en.wikipedia.org/wiki/Capitalization) module for
-  recovering / correcting capitalization in lowercase, uppercase and mixed case sentences.
-  Classifier combining [HMMs](http://en.wikipedia.org/wiki/Hidden_Markov_model),
-  huge amount of [N-grams](https://en.wikipedia.org/wiki/N-gram) data,
-  and other sources of information.
-- Designed modules for [word sense disambiguation](https://en.wikipedia.org/wiki/Word-sense_disambiguation).
-- Designed various other modules for [lexical analysis](https://en.wikipedia.org/wiki/Lexical_analysis),
+- Designed modules for [named entity recognition](https://en.wikipedia.org/wiki/Named-entity_recognition)
+  ([Hidden Markov Models](http://en.wikipedia.org/wiki/Hidden_Markov_model) and rule-based),
+  [capitalization](https://en.wikipedia.org/wiki/Capitalization)
+  ([HMMs](http://en.wikipedia.org/wiki/Hidden_Markov_model),
+   [N-grams](https://en.wikipedia.org/wiki/N-gram), data sources),
+  [word sense disambiguation](https://en.wikipedia.org/wiki/Word-sense_disambiguation),
+  [lexical analysis](https://en.wikipedia.org/wiki/Lexical_analysis),
   [classification](https://en.wikipedia.org/wiki/Multiclass_classification) and confidence scoring.
 - [API REST](https://en.wikipedia.org/wiki/Representational_state_transfer) interface to some of the modules.
 - Software to be deployed on thousands of servers and able to serve thousands of queries per
@@ -267,13 +249,17 @@ permalink: /resume/
 ### (Continuing) Education
 ----
 
-#### Graph
+#### Graph Learning
 
 - [CS224W: Machine Learning with Graphs (Stanford)](https://web.stanford.edu/class/cs224w/):
   [PyG](https://pytorch-geometric.readthedocs.io/en/latest/),
   [NetworkX](https://networkx.org),
   [Graph Neural Network](https://en.wikipedia.org/wiki/Graph_neural_network)
 - [Mining Massive Datasets (Stanford)](https://www.edx.org/course/mining-massive-datasets) :  [Locality Sensitive Hashing (LSH)](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
+
+#### Generative "Artificial Intelligence"
+
+- [HuggingFace](https://huggingface.co), [DeepLearning.ai](https://www.deeplearning.ai), ...
 
 #### Quantum Computing
 
@@ -337,8 +323,8 @@ permalink: /resume/
 
 - French (mother tongue)
 - English (bilingual)
-- German (fluent, lived-studied-worked 3 years in Germany)
-- Japanese (intermediate, lived 3 years in Japan)
+- German (fluent, 3 years in Germany)
+- Japanese (intermediate, 3 years in Japan)
 
 ### Personal Experiences
 ----
