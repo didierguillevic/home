@@ -22,9 +22,9 @@ permalink: /resume/
 
 ### Contact
 ----
-- Montréal, Québec, Canada
-- [didier@guillevic.net](mailto:didier@guillevic.net)
-- [didier.guillevic.net](https://didier.guillevic.net)
+- Montréal, Québec, Canada,
+  [didier@guillevic.net](mailto:didier@guillevic.net),
+  [didier.guillevic.net](https://didier.guillevic.net)
 
 ### Expertise
 ----
