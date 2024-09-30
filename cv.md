@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C. Vitae
+title: C.V.
 permalink: /resume/
 ---
 

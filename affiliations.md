@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Affiliations
+title: Work
 permalink: /work/
 ---
 
