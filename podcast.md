@@ -5,7 +5,7 @@ permalink: /podcast/
 ---
 
 - **Deep Dive** podcast generated with [NotebookLM](https://notebooklm.google.com)... :-)
-- Note: There might be mistakes. Please double-check.
+- Note: There might be mistakes. Please double-check / confirm any facts independently.
 
 ### 1. Privacy Preserving Machine Learning
 
