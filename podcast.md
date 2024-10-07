@@ -38,3 +38,11 @@ permalink: /podcast/
   Your browser does not support the audio element.
 </audio>
 <span style="display: inline-block;">Based on Canada's [Income Tax Act](https://laws-lois.justice.gc.ca/eng/acts/i-3.3/)</span>
+
+### 5. Canada Revenue compliance and enforcement
+
+<audio controls style="display: inline-block; margin-right: 10px;">
+  <source src="{{ site.baseurl }}/assets/audio/Canada_Revenue_Compliance.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+<span style="display: inline-block;">Based on Canada Revenue Agency's [compliance and enforcement](https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance.html)</span>
