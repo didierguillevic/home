@@ -60,14 +60,6 @@ permalink: /podcast/
 
 ## Open source software
 
-#### Open source software: principles, benefits and commercial significance
-
-- [Open source software explained](assets/reports/Open_Source_Software_Explained.pdf)
-<audio controls style="display: inline-block; margin-right: 10px;">
-  <source src="{{ site.baseurl }}/assets/audio/Open_Source_Software_Principles_Benefits_and_Commercial_Significance.wav" type="audio/wav">
-  Your browser does not support the audio element.
-</audio>
-
 #### The Value of Open Source Software
 
 - [The Value of Open Source Software](https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf) - Hoffman, Nagle, Zhou - Harvard Business School 2024
@@ -76,9 +68,17 @@ permalink: /podcast/
   Your browser does not support the audio element.
 </audio>
 
+#### Open source software: principles, benefits and commercial significance
+
+- [Open source software explained](assets/reports/Open_Source_Software_Explained.pdf)
+<audio controls style="display: inline-block; margin-right: 10px;">
+  <source src="{{ site.baseurl }}/assets/audio/Open_Source_Software_Principles_Benefits_and_Commercial_Significance.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
+
 #### The Global Use of Open Source Software by Governments
 
-- [The Global Use of Open Source Software by Governments: Benefits, Drawbacks, and Managerial Considerations for Transition](assets/reports/Government_Open_Source_Software_Report.pdf)
+- [The Global Use of Open Source Software by Governments](../assets/reports/Government_Open_Source_Software_Report.pdf)
 <audio controls style="display: inline-block; margin-right: 10px;">
   <source src="{{ site.baseurl }}/assets/audio/Government_Adoption_of_Open_Source_Software_Global_Trends_and_Considerations.wav" type="audio/wav">
   Your browser does not support the audio element.
