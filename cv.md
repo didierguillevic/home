@@ -23,8 +23,10 @@ permalink: /resume/
 ### Contact
 ----
 - Montréal, Québec, Canada,
-  [didier@guillevic.net](mailto:didier@guillevic.net),
-  [didier.guillevic.net](https://didier.guillevic.net)
+  [didier@guillevic.net](mailto:didier@guillevic.net)
+- [didier.guillevic.net](https://didier.guillevic.net), 
+  [HuggingFace.co/Didier](https://huggingface.co/Didier),
+  [Linkedin.com/in/didierguillevic](https://www.linkedin.com/in/didierguillevic/)
 
 ### Expertise
 ----
@@ -49,7 +51,8 @@ permalink: /resume/
     [JavaScript](http://en.wikipedia.org/wiki/JavaScript)
 - Databases:
     [MongoDB](http://www.mongodb.org) (NoSQL),
-    [PostgreSQL](http://en.wikipedia.org/wiki/PostgreSQL)
+    [PostgreSQL](http://en.wikipedia.org/wiki/PostgreSQL),
+    LanceDB
 - Cloud computing:
     [AWS](https://aws.amazon.com),
     [Oracle Grid Engine](https://en.wikipedia.org/wiki/Oracle_Grid_Engine),
