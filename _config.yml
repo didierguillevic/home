@@ -31,6 +31,17 @@ linkedin_username: didierguillevic
 
 # Build settings
 theme: minima
+
+header_pages:
+  - about.md
+  - apps.md
+  - cv.md
+  - learning.md
+  - pictures.md
+  - podcast.md
+  - presentations.md
+  - affiliations.md
+
 #plugins:
 #  - jekyll-feed
 

@@ -6,5 +6,4 @@ layout: home
 ---
 ![Didier Guillevic](/assets/images/Japan_vending_machines.jpg "Tokyo Vending Machine")
 
-### [Keep](https://www.coursera.org) [Learning](https://www.edx.org) [...](https://www.udacity.com)
-----
+[Carpe diem](https://fr.wikipedia.org/wiki/Carpe_diem)... Keep learning!
