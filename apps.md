@@ -8,6 +8,8 @@ Sample apps using deep learning...
 
 - [![Vision chat](/assets/images/icon_huggingface_multimedia_chat.png){:height="50"}](multimedia_chat.html)
 
+- [![Mistrall Small quantized](/assets/images/icon_huggingface_mistral_small_autoround.png){:height="50"}](mistral_small_quantized.html)
+
 - [![OCR](/assets/images/icon_huggingface_ocr.png){:height="50"}](ocr.html)
 
 - [![Postal address CAN parsing](/assets/images/icon_huggingface_postal_address_can_parsing.png){:height="50"}](postal_address_parsing.html)
