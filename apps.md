@@ -20,6 +20,8 @@ Sample apps using deep learning...
 
 - [![Video+text to text](/assets/images/icon_huggingface_video+text_to_text.png){:height="50"}](video+text_to_text.html)
 
+- [![Qwen3 translation](/assets/images/icon_huggingface_qwen3_think_translate.png){:height="50"}](qwen3_think_translate.html)
+
 - [![Vision Gemma3](/assets/images/icon_huggingface_vision_gemma.png){:height="50"}](vision_gemma.html)
 
 - [![CAN Income Tax Act](/assets/images/icon_huggingface_CAN_Income_Tax_Act.png){:height="50"}](income_tax_act.html)
