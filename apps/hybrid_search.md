@@ -1,0 +1,11 @@
+---
+layout: page
+title: Hybrid search
+---
+
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/5.9.1/gradio.js"
+></script>
+
+<gradio-app src="https://didier-hybrid-search.hf.space"></gradio-app>

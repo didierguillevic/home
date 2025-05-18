@@ -4,6 +4,12 @@ title: Presentations
 permalink: /presentations/
 ---
 
+#### 2023: [Quantum Computing](../Quantum_Computing_2023_Didier_Guillevic.pdf)
+<img src="/assets/images/DG_quantum_computing_wordcloud.png" title="Quantum computing word cloud" width="400" />
+
+#### 2023: [Deep Learning](../Deep_Learning_2023_Didier_Guillevic.pdf)
+<img src="/assets/images/deep_learning_wordcounts_00.png" title="Deep Learning word cloud" width="400" />
+
 #### 2020: [Data Privacy (Privacy Preserving Machine Learning)](../Data_Privacy_2020_Didier_Guillevic.pdf) (95 MB)
 <img src="/assets/images/World_heatmap.jpg" title="Strava World Heatmap" width="400" />
 

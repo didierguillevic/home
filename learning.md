@@ -15,6 +15,10 @@ permalink: /learning/
   [Graph Neural Network](https://en.wikipedia.org/wiki/Graph_neural_network)
 - [Mining Massive Datasets (Stanford)](https://www.edx.org/course/mining-massive-datasets) :  [Locality Sensitive Hashing (LSH)](https://en.wikipedia.org/wiki/Locality-sensitive_hashing)
 
+#### Generative "Artificial Intelligence"
+
+- [HuggingFace](https://huggingface.co), [DeepLearning.ai](https://www.deeplearning.ai), ...
+
 #### Quantum Computing
 
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) ([Keio University](https://quantum.keio.ac.jp))
