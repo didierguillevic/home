@@ -35,6 +35,7 @@ theme: minima
 header_pages:
   - about.md
   - apps.md
+  - blog.md
   - cv.md
   - learning.md
   - pictures.md
