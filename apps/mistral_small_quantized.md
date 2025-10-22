@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Mistral Small (4 bit weights)
+title: 
 ---
-
-Vision language model (Mistral Small 3.1) using 4 bit weight quantization.
 
 <div class="responsive-container">
     <script

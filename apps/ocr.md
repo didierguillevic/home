@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Optical character recognition
+title: 
 ---
-
-Sample app serving traditional OCR 1.0 (i.e. tesseract package) as well as
-OCR 2.0 using the latest vision model (i.e. Mistral small) 
 
 <script
 	type="module"

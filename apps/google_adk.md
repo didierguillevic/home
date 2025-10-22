@@ -4,11 +4,11 @@ title:
 ---
 
 <div class="responsive-container">
-  <script
-    type="module"
-    src="https://gradio.s3-us-west-2.amazonaws.com/5.22.0/gradio.js"
-  ></script>
-  <gradio-app src="https://didier-vision-language-mistral-small.hf.space"></gradio-app>
+    <script
+	    type="module"
+	    src="https://gradio.s3-us-west-2.amazonaws.com/5.49.1/gradio.js">
+    </script>
+    <gradio-app src="https://didier-learning-google-agent-development-kit.hf.space"></gradio-app>
 </div>
 
 <style>

@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Qwen3 - think, translate
+title: 
 ---
-
-Qwen3 (text to text) with (optional) thinking mode...
 
 <div class="responsive-container">
         <script

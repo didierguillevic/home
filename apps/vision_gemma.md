@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vision Gemma3
+title: 
 ---
 
 <script

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Video + text to text
+title: 
 ---
 
 <script

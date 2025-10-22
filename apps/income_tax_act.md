@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Canadian Income Tax Act
+title: 
 ---
 
 <script

@@ -6,6 +6,8 @@ permalink: /apps/
 
 Sample apps using deep learning...
 
+- [![Google Agent Development Kit](/assets/images/icon_huggingface_learning_google_adk.png){:height="50"}](google_adk.html)
+
 - [![Vision chat](/assets/images/icon_huggingface_multimedia_chat.png){:height="50"}](multimedia_chat.html)
 
 - [![Mistrall Small quantized](/assets/images/icon_huggingface_mistral_small_autoround.png){:height="50"}](mistral_small_quantized.html)

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Agentic search
+title: 
 ---
 
 <script
