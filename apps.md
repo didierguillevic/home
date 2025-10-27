@@ -6,6 +6,8 @@ permalink: /apps/
 
 Sample apps using deep learning...
 
+- [![openai-agents](/assets/images/icon_huggingface_learning_openai-agents.png){:height="50"}](openai_agents.html)
+
 - [![Google Agent Development Kit](/assets/images/icon_huggingface_learning_google_adk.png){:height="50"}](google_adk.html)
 
 - [![Vision chat](/assets/images/icon_huggingface_multimedia_chat.png){:height="50"}](multimedia_chat.html)
