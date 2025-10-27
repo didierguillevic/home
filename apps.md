@@ -10,6 +10,8 @@ Sample apps using deep learning...
 
 - [![Google Agent Development Kit](/assets/images/icon_huggingface_learning_google_adk.png){:height="50"}](google_adk.html)
 
+- [![CAN Income Tax Act](/assets/images/icon_huggingface_CAN_Income_Tax_Act.png){:height="50"}](income_tax_act.html)
+
 - [![Vision chat](/assets/images/icon_huggingface_multimedia_chat.png){:height="50"}](multimedia_chat.html)
 
 - [![Mistrall Small quantized](/assets/images/icon_huggingface_mistral_small_autoround.png){:height="50"}](mistral_small_quantized.html)
@@ -28,4 +30,3 @@ Sample apps using deep learning...
 
 - [![Vision Gemma3](/assets/images/icon_huggingface_vision_gemma.png){:height="50"}](vision_gemma.html)
 
-- [![CAN Income Tax Act](/assets/images/icon_huggingface_CAN_Income_Tax_Act.png){:height="50"}](income_tax_act.html)
