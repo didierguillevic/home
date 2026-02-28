@@ -6,6 +6,8 @@ permalink: /apps/
 
 Sample apps using deep learning...
 
+- [![Docling VLM OCR](/assets/images/icon_huggingface_docling_vlm_ocr.png){:height="50"}](docling_vlm_ocr.html)
+
 - [![openai-agents](/assets/images/icon_huggingface_learning_openai-agents.png){:height="50"}](openai_agents.html)
 
 - [![Google Agent Development Kit](/assets/images/icon_huggingface_learning_google_adk.png){:height="50"}](google_adk.html)
