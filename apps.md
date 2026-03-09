@@ -6,6 +6,8 @@ permalink: /apps/
 
 Sample apps using deep learning...
 
+- [![(Smolagents) Agentic Chat](/assets/images/icon_huggingface_smolagents_agentic_chat.png){:height="50"}](smolagents_agentic_chat.html)
+
 - [![Pydantic-AI with Skills](/assets/images/icon_huggingface_pydantic-ai_with_Skills.png){:height="50"}](pydantic-ai_with_Skills.html)
 
 - [![Docling VLM OCR](/assets/images/icon_huggingface_docling_vlm_ocr.png){:height="50"}](docling_vlm_ocr.html)
