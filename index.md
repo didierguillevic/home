@@ -9,3 +9,5 @@ layout: home
 [Carpe diem](https://fr.wikipedia.org/wiki/Carpe_diem)... Keep learning!
 
 ![ichigo ichie](/assets/images/ichigo_ichie.jpeg)
+
+[Totally different!](https://www.youtube.com/watch?v=z2IdtjKUsX0)
