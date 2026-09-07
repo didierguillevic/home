@@ -8,6 +8,6 @@ layout: home
 
 [Carpe diem](https://fr.wikipedia.org/wiki/Carpe_diem)... Keep learning!
 
-![ichigo ichie](/assets/images/ichigo_ichie.jpeg)
+![ichigo ichie](/assets/images/ichigo_ichie.png)
 
-[Totally different!](https://www.youtube.com/watch?v=z2IdtjKUsX0)
+Totally different! ([youtube](https://www.youtube.com/watch?v=z2IdtjKUsX0), [image](/assets/images/totally_different.png "Totally different!"))
